@@ -1,5 +1,7 @@
 # Naive-Bayes-Spam-Classifier
 
+![SMS SPAM Classifier](images/SMS-Spam-Classifier-Drawio.png)
+
 This project focuses on building a simple SMS spam classifier using Naive-Bayes machine learning model. Data is cleaned and preprocessed using NumPy, Pandas and Scikit-Learn. A model pipeline is built for convenient preprocessing of data, model training and inference. Accuracy and ROC-AUC scores are used to evaluate the model's performance. 
 
 |Metric|Train score|Test score|
